@@ -1,1 +1,2 @@
 # alura-OracleNextEducation2024-T7-ChallengeDecodificadorDeTexto
+# alura-OracleNextEducation2024-T7-ChallengeDecodificadorDeTexto
